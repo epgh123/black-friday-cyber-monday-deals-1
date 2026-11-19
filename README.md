@@ -150,6 +150,10 @@ We'd greatly appreciate if you could:
 | [Semantic Pen](https://www.semanticpen.com/) | AI Content Writer - Generate high-quality content with AI | **20BF2025** - 20% OFF | Ends Dec 31 | ✅ |
 | [ConsoleX AI](https://consolex.ai) | The ultimate AI studio for creators: all frontier models and creative tools in one place | **CXBLACK2025** - 50% off | Ends Dec 3 | ✅ |
 | [Summate](https://summate.io) | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | **SUMMATEBF25** - 50% off ($10/mo annual, $15/mo monthly) | Ends Dec 5 | ✅ |
+| [Exploit Pack](https://www.exploitpack.com/products/exploit-pack) | AI-assisted exploit-development framework with 46,000+ exploits, zero-days and debugger integration | **LIFETIME** – 20% off (€1,200 → €960) with code **LIFETIME** | Ends Nov 30, 2026 | ✅ |
+| [Control Pack](https://www.exploitpack.com/products/control-pack) | Cross-platform C2 for stealthy post-exploitation and AI-assisted red-team operations | **LIFETIME** – 20% off (€1,200 → €960) with code **LIFETIME** | Ends Nov 30, 2026 | ✅ |
+| [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) | Kernel exploitation and C2 with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling | **LIFETIME** – 20% off (€1,200 → €960) with code **LIFETIME** | Ends Nov 30, 2026 | ✅ |
+| [Ultimate Pack + AI](https://www.exploitpack.com/products/ultimate-pack-discount) | All-in-one offensive-security suite combining exploitation, C2 and kernel operations with integrated AI | Black Friday bundle €4,000; no coupon | Ends Nov 30, 2026 | ✅ |
 
 ## Design kits
 
